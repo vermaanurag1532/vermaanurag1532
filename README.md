@@ -1,5 +1,5 @@
 # 💫 About Me:
-My Start up WHILE<br>StartUps<br>While Website<br>ML/Al<br>Entrepreneurship
+🔭 I’m currently working on my Start up WHILE<br>👯 I’m looking to collaborate on Start ups<br>🤝 I’m looking for help with WHILE Website<br>🌱 I’m currently learning AI/ML<br>💬 Ask me about Entrepreneurship
 
 
 ## 🌐 Socials:
@@ -14,6 +14,9 @@ My Start up WHILE<br>StartUps<br>While Website<br>ML/Al<br>Entrepreneurship
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vermaanurag1532&icon=0&color=0)](https://visitcount.itsvg.in)
